@@ -1,0 +1,8 @@
+This script can be used with the StreamLine Web Automator and the StreamLine App Automator.
+Follow these instructions after you run your tests.
+
+1. Move the auto_update_tests.jar file and the corresponding run file into the output folder
+2. Open the output file
+3. Put the letter 'a' in column M next to each of the failures and errors that you want to update.
+	The script will replace the expected value of the failed test case with the actual value in the output file.
+4. Close the excel files and double click the run file.

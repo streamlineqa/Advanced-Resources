@@ -1,0 +1,5 @@
+This script can be used with the StreamLine Web Automator and the StreamLine App Automator.
+It will style the title cells with black backgrounds, freeze the top row, and freeze the first five columns for all excel files in the tests folder.
+
+1. Move the style_excel_tests.jar file and the corresponding run file into the "application - StreamLine Web Automator" or the "application - StreamLine App Automator" folder
+2. Double click the run file
