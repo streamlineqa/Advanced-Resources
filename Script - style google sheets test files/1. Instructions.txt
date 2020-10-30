@@ -1,0 +1,5 @@
+This script can be used with the StreamLine Web Automator.
+It will style the title cells with black backgrounds, freeze the top row, and freeze the first five columns for all test files in the tests folder. This script uses the test folder id from your config file.
+
+1. Move the style_google_sheets_tests.jar file and the corresponding run file into the "application - StreamLine Web Automator"
+2. Double click the run file
